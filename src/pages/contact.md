@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |+
+    content: |
       Let’s build something great together.<br>
       Complete our contact form or send us an email at <email@example.com>.
 
@@ -12,13 +12,11 @@ sections:
 
       ## Retail Store
 
-      ### San Francisco
+      ### Los Angeles
 
-      14918 Ventura Blvd\<br>
-      Sherman Oaks, CA 91403\<br>
-      1-818-789-8900\<br>
-
-
+      14918 Ventura Blvd
+      Sherman Oaks, CA 91403
+      1-818-789-8900
     form_id: contactForm
     form_action: /thank-you
     form_fields:
